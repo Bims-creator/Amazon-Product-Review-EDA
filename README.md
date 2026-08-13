@@ -1,4 +1,4 @@
-# Amazon-Product-Review-EDAAmazon-Product-Review-EDA
+# Amazon-Product-Review-EDA
 
 This project is part of a Data Analytics case study to explore trends, pricing, and customer behavior across Amazon product listings using Excel-based Exploratory Data Analysis (EDA).
 
